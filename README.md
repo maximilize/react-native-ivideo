@@ -39,7 +39,7 @@ React-native-ivideo uses react-native-video, react-native-orientation, and react
 installation:
 
 ```bash
-yarn add react-native-ivideo
+yarn add react-native-ivideo react-native-linear-gradient react-native-orientation react-native-video@3.2.1
 ```
 
 link:
